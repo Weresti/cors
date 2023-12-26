@@ -1,2 +1,2 @@
 # cors
-courseraebcourse
+coursera Web course
